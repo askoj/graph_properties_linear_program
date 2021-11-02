@@ -1,0 +1,10 @@
+@misc{
+	akobeidLinearProgram2020,
+	author = {Abdul Karim Obeid},
+	title = {Deriving Graph Properties Of Contextuality From Linear Programs},
+	year = {2020},
+	publisher = {GitHub},
+	journal = {GitHub repository},
+	howpublished = {\\url{}},
+	commit = {}
+}
